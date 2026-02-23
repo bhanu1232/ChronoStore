@@ -1,0 +1,13 @@
+# Compiled binaries
+*.exe
+*.o
+*.a
+*.out
+
+# Build logs and temp files
+*.txt
+*.bin
+
+# OS files
+.DS_Store
+Thumbs.db
